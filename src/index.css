@@ -1,0 +1,42 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+.description{
+  width: 90%;
+  margin: auto;
+}
+.description-title{
+  font-size: 14px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.desc{
+  color:#717171;
+  font-size: 12px;
+  text-align: left;
+}
+.menu{
+  margin:auto;
+
+}
+.logo-img{
+  width: 30%;
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content:center;
+  height:50%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.redes{
+  width: 70%;
+  margin: auto;
+  max-width: 70%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
